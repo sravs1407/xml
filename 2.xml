@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE students[
+<!ELEMENT students(name,branch,year)>
+<!ATTLIST students id ID #REQUIRED>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT branch(#PCDATA)>
+<!ELEMENT year(#PCDATA)>
+]>
+<studends id="y20cs170">
+<name>surasani sravanthi</name>
+<branch>cse</branch>
+<year>second year</year>
+</students>
