@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+<employee id="1o">
+<firstname>sravanthi</firstname>
+<lastname>surasani</lastname>
+<title>manager</title>
+<building>300</building>
+<room>20</room>
+</employee>
+<employee id="2o">
+<firstname>keerthi</firstname>
+<lastname>popuri</lastname>
+<title>accountant</title>
+<building>200</building>
+<room>10</room>
+</employee>
+<employee id="4o">
+<firstname>divya</firstname>
+<lastname>veeramreddy</lastname>
+<title>engineer</title>
+<building>900</building>
+<room>90</room>
+</employee>
+</employees>
